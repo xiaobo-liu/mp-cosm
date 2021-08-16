@@ -4,7 +4,7 @@ Function `include/cosm_mp.m` computes the matrix cosine of a square matrix in ar
 
 Details on the underlying algorithms can be found in the technical report:
 
-Awad H. Al-Mohy, N. J. Higham and X. Liu. Arbitrary Precision Algorithms for Computing the Matrix Cosine and its Fr\'echet Derivative, MIMS EPrint 2021.x, 2021.
+Awad H. Al-Mohy, N. J. Higham and X. Liu. Arbitrary Precision Algorithms for Computing the Matrix Cosine and its Fréchet Derivative, MIMS EPrint 2021.x, 2021.
 
 All codes used for generating the data in the above report are included in this repository.
 
