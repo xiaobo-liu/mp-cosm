@@ -1,6 +1,6 @@
 # Arbitrary precision algorithms for computing the matrix cosine and its Fréchet derivative. 
 
-Function `include/cosm_mp.m` computes the matrix cosine of a square matrix in arbitrary precision. Function `include/cosm_double.m` is the counterpart that works in double precision and uses no `mp` computation. Function `include/cosm_frechet_mp.m` computes the matrix cosine and its Fréchet derivative simoutaneously in arbitrary precision. 
+Function `include/cosm_mp.m` computes the matrix cosine of a square matrix in arbitrary precision; function `include/cosm_double.m` is the counterpart that works in double precision and uses no `mp` computation. Function `include/cosm_frechet_mp.m` computes the matrix cosine and its Fréchet derivative simoutaneously in arbitrary precision. 
 
 Details on the underlying algorithms can be found in the technical report:
 
