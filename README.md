@@ -1,10 +1,6 @@
-# Arbitrary precision algorithms for computing the matrix cosine and 
-its Fr\'echet derivative. 
+# Arbitrary precision algorithms for computing the matrix cosine and its Fr\'echet derivative. 
 
-Function `include/cosm_mp.m` computes the matrix cosine of a square
-matrix in arbitrary precision. Function `include/cosm_double.m` is the counterpart that works in double precision and uses no `mp` computation.
-
-Function `include/cosm_frechet_mp.m` computes the matrix cosine and its Fr\'echet derivative simoutaneously in arbitrary precision. 
+Function `include/cosm_mp.m` computes the matrix cosine of a square matrix in arbitrary precision. Function `include/cosm_double.m` is the counterpart that works in double precision and uses no `mp` computation. Function `include/cosm_frechet_mp.m` computes the matrix cosine and its Fr\'echet derivative simoutaneously in arbitrary precision. 
 
 Details on the underlying algorithms can be found in the technical report:
 
@@ -14,5 +10,5 @@ All codes used for generating the data in the above report are included in this 
 
 ## Dependencies
 
-The code in this repository requires the Advanpix Multiprecision Computing
+The code in this repository may require the Advanpix Multiprecision Computing
 Toolbox for MATLAB (www.advanpix.com).
